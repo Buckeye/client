@@ -1,7 +1,7 @@
-set( APPLICATION_NAME       "ownCloud" )
-set( APPLICATION_EXECUTABLE "owncloud" )
-set( APPLICATION_DOMAIN     "owncloud.com" )
-set( APPLICATION_VENDOR     "ownCloud" )
+set( APPLICATION_NAME       "ShareDrive" )
+set( APPLICATION_EXECUTABLE "ShareDrive" )
+set( APPLICATION_DOMAIN     "telesystem.us" )
+set( APPLICATION_VENDOR     "Telesystem" )
 set( APPLICATION_UPDATE_URL "https://updates.owncloud.com/client/" CACHE string "URL for updater" )
 
 set( THEME_CLASS            "ownCloudTheme" )
